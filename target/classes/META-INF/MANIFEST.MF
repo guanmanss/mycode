@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Class-Path: lib/log4j-1.2.17.jar lib/hadoop-common-2.5.0-cdh5.3.6.jar 
+ lib/hadoop-annotations-2.5.0-cdh5.3.6.jar lib/guava-11.0.2.jar lib/co
+ mmons-cli-1.2.jar lib/commons-math3-3.1.1.jar lib/xmlenc-0.52.jar lib
+ /commons-httpclient-3.1.jar lib/commons-codec-1.4.jar lib/commons-io-
+ 2.4.jar lib/commons-net-3.1.jar lib/commons-collections-3.2.1.jar lib
+ /servlet-api-2.5.jar lib/jetty-6.1.26.cloudera.4.jar lib/jetty-util-6
+ .1.26.cloudera.4.jar lib/jersey-core-1.9.jar lib/jersey-json-1.9.jar 
+ lib/jettison-1.1.jar lib/jaxb-impl-2.2.3-1.jar lib/jackson-jaxrs-1.8.
+ 3.jar lib/jackson-xc-1.8.3.jar lib/jersey-server-1.9.jar lib/asm-3.1.
+ jar lib/jasper-compiler-5.5.23.jar lib/jasper-runtime-5.5.23.jar lib/
+ jsp-api-2.1.jar lib/commons-el-1.0.jar lib/commons-logging-1.1.3.jar 
+ lib/jets3t-0.9.0.jar lib/httpclient-4.1.2.jar lib/httpcore-4.1.2.jar 
+ lib/java-xmlbuilder-0.4.jar lib/commons-lang-2.6.jar lib/commons-conf
+ iguration-1.6.jar lib/commons-digester-1.8.jar lib/commons-beanutils-
+ 1.7.0.jar lib/commons-beanutils-core-1.8.0.jar lib/slf4j-api-1.7.5.ja
+ r lib/slf4j-log4j12-1.7.5.jar lib/jackson-core-asl-1.8.8.jar lib/jack
+ son-mapper-asl-1.8.8.jar lib/avro-1.7.6-cdh5.3.6.jar lib/paranamer-2.
+ 3.jar lib/snappy-java-1.0.5.jar lib/protobuf-java-2.5.0.jar lib/gson-
+ 2.2.4.jar lib/hadoop-auth-2.5.0-cdh5.3.6.jar lib/apacheds-kerberos-co
+ dec-2.0.0-M15.jar lib/apacheds-i18n-2.0.0-M15.jar lib/api-asn1-api-1.
+ 0.0-M20.jar lib/api-util-1.0.0-M20.jar lib/curator-framework-2.6.0.ja
+ r lib/jsch-0.1.42.jar lib/curator-client-2.6.0.jar lib/curator-recipe
+ s-2.6.0.jar lib/jsr305-1.3.9.jar lib/zookeeper-3.4.5-cdh5.3.6.jar lib
+ /commons-compress-1.4.1.jar lib/xz-1.0.jar lib/hadoop-hdfs-2.5.0-cdh5
+ .3.6.jar lib/commons-daemon-1.0.13.jar lib/netty-3.6.2.Final.jar lib/
+ hadoop-client-2.5.0-cdh5.3.6.jar lib/hadoop-mapreduce-client-app-2.5.
+ 0-cdh5.3.6.jar lib/hadoop-mapreduce-client-common-2.5.0-cdh5.3.6.jar 
+ lib/hadoop-yarn-client-2.5.0-cdh5.3.6.jar lib/jersey-client-1.9.jar l
+ ib/hadoop-yarn-server-common-2.5.0-cdh5.3.6.jar lib/hadoop-mapreduce-
+ client-shuffle-2.5.0-cdh5.3.6.jar lib/leveldbjni-all-1.8.jar lib/hado
+ op-yarn-api-2.5.0-cdh5.3.6.jar lib/hadoop-mapreduce-client-jobclient-
+ 2.5.0-cdh5.3.6.jar lib/hadoop-aws-2.5.0-cdh5.3.6.jar lib/jackson-data
+ bind-2.2.3.jar lib/jackson-core-2.2.3.jar lib/jackson-annotations-2.2
+ .3.jar lib/aws-java-sdk-1.7.4.jar lib/hadoop-mapreduce-client-core-2.
+ 5.0-cdh5.3.6.jar lib/hadoop-yarn-common-2.5.0-cdh5.3.6.jar lib/jaxb-a
+ pi-2.2.2.jar lib/stax-api-1.0-2.jar lib/activation-1.1.jar lib/guice-
+ 3.0.jar lib/javax.inject-1.jar lib/aopalliance-1.0.jar lib/jersey-gui
+ ce-1.9.jar lib/guice-servlet-3.0.jar
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Main-Class: com.zixing.mr.WordCountDriver
+
